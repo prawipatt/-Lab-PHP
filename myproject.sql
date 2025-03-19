@@ -84,9 +84,9 @@ CREATE TABLE `userdata` (
 
 INSERT INTO `userdata` (`id`, `fullname`, `username`, `useremail`, `usermobile`, `loginpassword`, `regdate`, `usr_type`) VALUES
 (20, 'admin', 'admin', 'admin00@gmail.com', '0000000000', 'ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f', '2025-01-09 03:09:36', 0),
-(30, 'momo', 'mo', 'mo12@gmail.com', '0987656789', '15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', '2025-03-16 14:02:42', 1),
-(33, 'naw', 'new', 'new12@gmail.com', '0123456798', 'b03c4967d8ea522f5320cec241f77f2030c34c827a4ea0b9d7d859231aba61a0', '2025-03-16 16:17:42', 1),
-(34, 'dayday', 'day', 'day12@gmail.com', '0897575743', '15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', '2025-03-16 14:59:59', 1);
+(30, 'first', 'first', 'prawipat@gmail.com', '0987656789', '15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', '2025-03-16 14:02:42', 1),
+(33, 'nam', 'nam', 'namwww@gmail.com', '0123456798', 'b03c4967d8ea522f5320cec241f77f2030c34c827a4ea0b9d7d859231aba61a0', '2025-03-16 16:17:42', 1),
+(34, 'ever', 'ever', 'day@gmail.com', '0897575743', '15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', '2025-03-16 14:59:59', 1);
 
 --
 -- Indexes for dumped tables
